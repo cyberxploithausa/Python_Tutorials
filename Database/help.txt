@@ -1,0 +1,26 @@
+				
+***INTRODUCTION TO DATABASE***
+
+
+CHARACTERS: This are the combinations of alphabets, numbers and symbols
+
+DATA: A data is a collection of raw facts(information that is not processed that is in form characters).
+
+RECORDS: This are the collections or combinations of data(row in a database)
+
+FILES: It is the coming together of two or more records
+
+DATABASE: A database is the collections of files and related records
+
+DATABASE MANAGEMENT SYSTEM: DBMS is a software package designed to define, manipulate, retrieve and manage data in database.
+
+
+***EXAMPLES OF DATABASE MANAGEMENT SYSTEM***
+
+1. MySQL
+2. PostgreSQL
+3. Microsoft access
+4. FileMaker
+5. Oracle
+6. Sqlite3
+7. FoxPro

@@ -1,0 +1,17 @@
+                        USING PYTHON TO SOLVE REAL WORLD MATHEMATICAL PROBLEMS
+
+QUESTION 1: (Basic Geometry)
+    write a program to find the area and perimeter of rectangle
+
+QUESTION 2: (Probability)
+    write a program to find the probability of an event
+
+QUESTION 3: (Trigonometry)
+    write a program to calculate the hypotenuse of a right angled triangle given the two sides.
+
+QUESTION 4: (Simple Interest)
+    write a program to calculate the Simple Interest of a given amount, interest and time period
+
+QUESTION 5: (Basic Geometry)
+    write a program to find the perimeter of a triangle
+
