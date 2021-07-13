@@ -1,0 +1,29 @@
+# OS MODULE IN PYTHON
+
+# Introduction to os module in python
+
+The os module is a library in python that allows us to gain access to the host operating system.
+It allows us to get the current working directories, create new directory, list the files and directories.
+
+To use the os module we first need to import it
+g
+we can say os.(other functions callable())
+print the variable.
+
+example:
+    os.getcwd()
+    os.listdir()
+    os.makedirs('name of dir')
+    os.mkdir('main_dir/Sub_dir')
+    os.chdir(name of dir to switch to[forward/backward])
+    os.environs.get('use an environ variable')
+    os.name(path/file)
+    os.open()
+    os.close()
+    os.rmdir('name of dir')
+    os.removedirs('name of  multiple dir')
+    os.path.exists('name of dir')
+    os.rename()
+    os.replace()
+    os.close()
+    os.read()
