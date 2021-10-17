@@ -1,6 +1,6 @@
 # Python_Tutorials
 
-In this repo, we added nultiple projects which 
+In this repo, we added multiple projects which 
 Includes:
 
 --> Python Database
